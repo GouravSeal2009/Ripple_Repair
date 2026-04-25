@@ -10,7 +10,7 @@ The game is set in a damaged space-station control room with broken monitors, lo
 
 ## Play
 
-Open this folder in Godot 4 and run the project.
+Open this folder in Godot 4 and run the project. Or click on **run repair ripple.bat**
 
 - The first screen has Play, Scoreboard, Instructions, and Achievements.
 - Move with WASD or arrow keys.
